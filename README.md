@@ -1,6 +1,6 @@
 # Welcome to My Profile! 👋
 
-### Web Developer | Nuxt.js Enthusiast
+### Frontend Developer | Nuxt.js Enthusiast
 
 ### 🌱 What I’m Learning
 
@@ -17,7 +17,7 @@
 
 ### About Me 📄
 
-Hello, my name is **Rifqi Taufiqurrohman**, a passionate and ambitious  **frontend developer** with a fervent dedication to the world of **Web Development**.Currently working in Telkom Foundation As a Frontend Developer
+Hello, my name is **Rifqi Taufiqurrohman**, a passionate and ambitious  **Frontend Developer** with a fervent dedication to the world of **Web Development**. Currently working in Telkom Foundation As a Frontend Developer
 Since 2022, I’ve been dedicated to crafting interactive, user-friendly interfaces that solve complex challenges with clean and efficient code.
 
 I specialize in building responsive web applications using modern technologies like Vue.js, Nuxt.js, and Tailwind CSS, always striving to create seamless user experiences. With a keen eye for design and attention to detail, I turn ideas into engaging digital solutions that not only look great but function flawlessly across all devices.
