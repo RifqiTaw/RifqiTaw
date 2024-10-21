@@ -2,6 +2,12 @@
 
 ### Web Developer | Nuxt.js Enthusiast
 
+### 🌱 What I’m Learning
+
+- [ ] Nuxt 3
+- [ ] GraphQL with Nuxt
+- [ ] Vue 3 Composition API
+
 ### Highlights 🏹
 
 - 😎 My name is **Rifqi Taufiqurrohman**
@@ -23,3 +29,23 @@ Hello outlander, my name is **Rifqi Taufiqurrohman**, a passionate and ambitious
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2341B883.svg?&style=flat-square&logo=vue.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=flat-square&logo=laravel&logoColor=white)
+
+![GitHub followers](https://img.shields.io/github/followers/rifqitaw?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/rifqitaw?style=social)
+
+### 🚀 Featured Projects
+
+- **[My Portfolio Website](https://rifqitaw.vercel.app/)** - A responsive portfolio built with Nuxt.js and Tailwind CSS.
+- **[Blog App](https://github.com/rifqitaw/blog-app)** - A Nuxt.js blog application with SSR and Vuex integration.
+
+### GitHub Stats 📊
+
+![Rifqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifqitaw&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rifqitaw&theme=radical)
+
+![Outlander](https://undraw.co/illustration-link)
+
+### 🤝 Let’s Collaborate!
+
+I’m always open to collaborating on projects, especially in **Nuxt.js**, **Vue.js**, or **React**. Feel free to reach out to me via email or open issues/PRs in my repositories.
