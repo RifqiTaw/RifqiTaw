@@ -48,6 +48,11 @@ Let’s build something amazing together! 🗺️🗡️🔥.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rifqitaw&theme=radical)
 
+### Let's Connect 📡
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifqi-taufiqurrohman98/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rifqi_taw/)
+
 ### 🤝 Let’s Collaborate!
 
 I’m always open to collaborating on projects, especially in **Nuxt.js**, **Vue.js**, or **React**. Feel free to reach out to me via email or open issues/PRs in my repositories.
