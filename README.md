@@ -40,7 +40,7 @@ Let’s build something amazing together! 🗺️🗡️🔥.
 
 ### 🚀 Featured Projects
 
-- **[My Portfolio Website](https://rifqitaw.vercel.app/)** - A responsive portfolio built with Nuxt.js and Tailwind CSS.
+- **[DIGITS Telkom Schools](https://digits.telkomschools.sch.id/)** - A Project Telkom Foundation built with Nuxt.js and Bootstrap.
 
 ### GitHub Stats 📊
 
