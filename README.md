@@ -1,9 +1,6 @@
 # Welcome to My Profile Outlander! 👋
 
-### Web Developer | UI/UX | Mobile Developer
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=alvalen.profile)
-[![committer rank](https://badges.pufler.dev/commits/top/alvalen)](https://github.com/alvalen)
+### Web Developer
 
 ![Fullstack](https://user-images.githubusercontent.com/your-image-id.png)
 
