@@ -5,8 +5,8 @@
 ### 🌱 What I’m Learning
 
 - [ ] Nuxt 3
-- [ ] GraphQL with Nuxt
 - [ ] Vue 3 Composition API
+- [ ] Typescript
 
 ### Highlights 🏹
 
@@ -17,7 +17,12 @@
 
 ### About Me 📄
 
-Hello outlander, my name is **Rifqi Taufiqurrohman**, a passionate and ambitious junior **fullstack developer** with a fervent dedication to the world of **Web Development**. Currently, I am a student at the esteemed **Universitas Negeri Malang**, where I’m in the midst of my exciting journey through the third semester of my **computer science** program. With the fire of ambition burning brightly in my heart, I venture forth into this mystical domain, where code weaves the fabric of reality, and websites are the portals to new adventures. The arcane arts of programming are my sword and shield, and I’m always ready to engage in battle with the most intricate challenges that the **digital wilderness** throws my way 🗺️🗡️🔥.
+Hello, my name is **Rifqi Taufiqurrohman**, a passionate and ambitious  **frontend developer** with a fervent dedication to the world of **Web Development**.Currently working in Telkom Foundation As a Frontend Developer
+Since 2022, I’ve been dedicated to crafting interactive, user-friendly interfaces that solve complex challenges with clean and efficient code.
+
+I specialize in building responsive web applications using modern technologies like Vue.js, Nuxt.js, and Tailwind CSS, always striving to create seamless user experiences. With a keen eye for design and attention to detail, I turn ideas into engaging digital solutions that not only look great but function flawlessly across all devices.
+
+Let’s build something amazing together! 🗺️🗡️🔥.
 
 ### Tech Stack 🔥
 
@@ -36,15 +41,12 @@ Hello outlander, my name is **Rifqi Taufiqurrohman**, a passionate and ambitious
 ### 🚀 Featured Projects
 
 - **[My Portfolio Website](https://rifqitaw.vercel.app/)** - A responsive portfolio built with Nuxt.js and Tailwind CSS.
-- **[Blog App](https://github.com/rifqitaw/blog-app)** - A Nuxt.js blog application with SSR and Vuex integration.
 
 ### GitHub Stats 📊
 
 ![Rifqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifqitaw&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rifqitaw&theme=radical)
-
-![Outlander](https://undraw.co/illustration-link)
 
 ### 🤝 Let’s Collaborate!
 
