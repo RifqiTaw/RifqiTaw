@@ -1,14 +1,12 @@
-# Welcome to My Profile Outlander! 👋
+# Welcome to My Profile! 👋
 
-### Web Developer
+### Web Developer | Nuxt.js Enthusiast
 
-![Fullstack](https://user-images.githubusercontent.com/your-image-id.png)
-
-### highlight 🏹
+### Highlights 🏹
 
 - 😎 My name is **Rifqi Taufiqurrohman**
 - 🌱 I’m currently learning **Nuxt JS** and **Vue JS**
-- 🌐 My portfolio available at: [https://rifqitaw.vercel.app/](https://rifqitaw.vercel.app/)
+- 🌐 My portfolio is available at: [https://rifqitaw.vercel.app/](https://rifqitaw.vercel.app/)
 - 📫 How to reach me: rifqitaufiqurrohman1@gmail.com
 
 ### About Me 📄
@@ -21,11 +19,7 @@ Hello outlander, my name is **Rifqi Taufiqurrohman**, a passionate and ambitious
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300C58E.svg?&style=flat-square&logo=nuxt.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2341B883.svg?&style=flat-square&logo=vue.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-%23A8B9CC.svg?&style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=flat-square&logo=next.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=flat-square&logo=laravel&logoColor=white)
